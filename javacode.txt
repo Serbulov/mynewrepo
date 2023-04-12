@@ -1,14 +1,4 @@
-sdfsdf
-fsfsdf
-fsdfsdferg
-dsfsdfdgfdfg
-
-text
-text
-text
-text
-text
-text
-text
-texttext
+public int sum(int x, int y) {
+	return x + y;
+}
 
